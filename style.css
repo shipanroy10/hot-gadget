@@ -1,0 +1,15 @@
+img{max-width: 100%;}
+.btn{color:white;background-color: black;;}
+.pad{margin: 20px;padding: 20px;}
+.bg{background: rgb(226, 187, 12);width: 30px;height: 8px;border-radius: 5px};
+.cd{text-align: center;}
+.container{margin-bottom: 50px;}
+
+.minicard{text-align: center;padding-bottom: 5px;}
+
+.card{border: none;border-radius: 10px;}
+.box{box-shadow: 0px 0px 8px -4px black;}
+
+
+.seeall{font-size: 20px;}
+.seeall a{color: orange;}
