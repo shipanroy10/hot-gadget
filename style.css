@@ -1,15 +1,30 @@
-img{max-width: 100%;}
-.btn{color:white;background-color: black;;}
-.pad{margin: 20px;padding: 20px;}
-.bg{background: rgb(226, 187, 12);width: 30px;height: 8px;border-radius: 5px};
+
+.btn{color:white;background-color: black;border-radius: 10px;}
+
+
+
+.pad{margin: 20px;padding-bottom: 20px;}
+
+.bg{background-color: rgb(243, 109, 176);border-radius: 50px;}
+    
+#submit{height: 400px;}
+    .carousel-indicators li{background-color: rgb(62, 216, 100);width: 50px ;border-radius: 20px;height: 10px !important;}
+
 .cd{text-align: center;}
+footer :hover{background-color: rgb(67, 7, 231);color: white;}
+footer{text-align: center;}
 .container{margin-bottom: 50px;}
 
 .minicard{text-align: center;padding-bottom: 5px;}
 
 .card{border: none;border-radius: 10px;}
-.box{box-shadow: 0px 0px 8px -4px black;}
+.box{box-shadow: 0px 0px 12px -4px black;
+}
 
-
-.seeall{font-size: 20px;}
+.seeall{font-size: 20px; float: right;padding-top: 15px;}
 .seeall a{color: orange;}
+
+.lastone{text-align: center;}
+
+#last{margin-top: 5px;background-image: linear-gradient(rgb(67, 148, 144),rgb(206, 24, 212));border-radius: 10px;padding-right: 10px;}
+.shoe, .shoe2, .bag{box-shadow: 0px 0px 10px 2px black;margin-right: 20px;padding: 10px;border-radius: 10px;text-align: center;}
